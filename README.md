@@ -216,15 +216,3 @@ Remove exposed MySQL port for production
 Abir Bose
 Docker & Backend Practice Project
 Focused on real-world backend and DevOps fundamentals
-
-If you want, next I can:
-
-make this production-ready
-
-add badges (Docker, PHP)
-
-tailor the README for job portfolios
-
-convert this into a WordPress or Laravel Docker setup
-
-Just tell me 👍
